@@ -84,7 +84,7 @@ Evaluated on held-out pure cancer test samples (1,206 samples):
 | MSE | Higher | **0.3385** |
 | R² | Lower | **0.9670** |
 
-An R² of **0.967** means the model reconstructs 96.7% of the variance in the true tumour signal — demonstrating strong reconstruction fidelity across varying levels of contamination.
+An R² of **0.967** means the model reconstructs 96.7% of the variance in the true tumour signal, demonstrating strong reconstruction fidelity across varying levels of contamination.
 
 The model was trained and evaluated separately for each cancer/normal ratio, showing robust performance even at high contamination levels (e.g. 30% cancer / 70% normal).
 
