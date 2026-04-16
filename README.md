@@ -10,6 +10,9 @@ This project develops a **Denoising Autoencoder (DAE)** in PyTorch to reconstruc
 
 ---
 
+
+**[View rendered notebook] : https://nbviewer.org/github/husna2933/denoising-autoencoder-breast-cancer/blob/main/Final_code.ipynb**
+
 ## The Problem
 
 When sequencing a biopsy, the measured gene expression signal is a mixture:
